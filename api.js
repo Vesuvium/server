@@ -92,6 +92,7 @@ router.put('/users/:id', mid3);
 router.get;
 router.post;
 router.put;
+router.patch;
 router.del;
 router.socket;  // Handle websocket calls
 router.error;   // Handle errors further up in the chain

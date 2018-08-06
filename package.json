@@ -1,8 +1,8 @@
 {
   "name": "server",
-  "version": "1.0.18",
+  "version": "2.0.18",
   "description": "A modern and powerful server for Node.js",
-  "main": "server.js",
+  "main": "maremmajs",
   "scripts": {
     "start": "node .",
     "dev": "grunt watch",
@@ -22,11 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/franciscop/server"
+    "url": "git+https://github.com/vesuvium/maremmajs"
   },
   "author": "Francisco Presencia <public@francisco.io>",
   "license": "MIT",
-  "homepage": "https://serverjs.io/",
   "dependencies": {
     "body-parser": "^1.15.2",
     "compression": "^1.6.2",

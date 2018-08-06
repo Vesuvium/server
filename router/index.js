@@ -10,6 +10,7 @@ module.exports = {
   // REST
   get    : require('./get'),
   post   : require('./post'),
+  patch  : require('/.patch'),
   put    : require('./put'),
   del    : require('./del'),
 
