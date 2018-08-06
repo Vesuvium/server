@@ -1,8 +1,8 @@
 {
-  "name": "server",
+  "name": "maremmajs",
   "version": "2.0.18",
   "description": "A modern and powerful server for Node.js",
-  "main": "maremmajs",
+  "main": "server.js",
   "scripts": {
     "start": "node .",
     "dev": "grunt watch",
